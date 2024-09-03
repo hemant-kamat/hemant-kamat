@@ -1,4 +1,4 @@
-# Hi, I'm Tejas! 👋
+# Hi, I'm Hemant! 👋
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=hemant-kamat.hemant-kamat)](https://github.com/hemant-kamat) 
 ## Introdution 🗺️
 
